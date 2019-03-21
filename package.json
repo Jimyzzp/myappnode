@@ -1,0 +1,26 @@
+{
+  "name": "app4",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "immutable": "^4.0.0-rc.12",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.0",
+    "xmlreader": "^0.2.3"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3"
+  }
+}
